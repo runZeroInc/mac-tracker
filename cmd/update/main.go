@@ -375,7 +375,7 @@ func downloadIEEECSV(info *MACUpdate, ctx context.Context, url string) ([][]stri
 	}
 
 	st, err := os.Stat(fpath)
-	if err == nil && int64(len(rdata)) < (st.Size()-512) {
+	if err == nil && int64(len(rdata)) < (st.Size()-(1024*1024) {
 		return nil, fmt.Errorf("Downloaded file %s is substantially smaller than existing file for %s: cur:%d, existing:%d", url, fpath, len(rdata), st.Size())
 	}
 
