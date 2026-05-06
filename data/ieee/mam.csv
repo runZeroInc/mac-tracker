@@ -1466,7 +1466,6 @@ MA-M,0826AEB,F-Plus Mobile LLC,"Preobrazhenskaya square, 8, floor 27, pom. LXXXV
 MA-M,0826AE1,"Beijing Silion Technology Corp.,Ltd.","#508, Building A, No.3 Longyu North St. Changping Beijing CN 102200 "
 MA-M,18D7930,"Shenzhen JieXingTong Technology Co.,LTD","3rd floor,block C,B6 building,China Merchants guangming science and technology park,No.3009 guanguang road,Guangming New District, Shenzhen  CN 518000 "
 MA-M,18D7933,"Verification & Validation Technology Co.,Ltd","Room 1802, Building 3, Xunmei Technology Plaza, No.8 Keyuan Road, Science Park Community, Yuehai Street, Nanshan District   shenzhen guangdong CN 518057 "
-MA-M,DC36436,"Shenzhen smart-core technology co.,ltd.","19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China Shenzhen Guangdong CN 518057 "
 MA-M,DC36432,"Wuhan Linptech Co. ,Ltd.","3F,Bldg 1A,Lianxiang Enterprise Center Wuhan Hubei CN 430074 "
 MA-M,DC3643E,"Beijing L&S Lancom Platform Tech. Co., Ltd.","901,floor 9, jelly loft, building 28, yard 9, Huinan Road, Changping District. Beijing  CN 102208 "
 MA-M,DC36437,UKG,900 Chelmsford St Lowell MA US 01851 
@@ -2335,7 +2334,6 @@ MA-M,24A3F04,"Misaka Network, Inc.","8 The Green, Suite 6288 Dover DE US 19901 "
 MA-M,3CDC030,RANCOMMUNICATION SOLUTIONS PRIVATE LIMITED,"Estex House, Unit 8, DLF, Indl Area,38 Kirti Nagar, Delhi Industrial Area, New Delhi, West Delhi- 110015, Delhi New Delhi   IN 110015 "
 MA-M,3CDC038,OCEASOFT SAS,720 RUE LOUIS LEPINE Montpellier  FR 34000 
 MA-M,3CDC03E,"JP Morgan Chase Bank, N.A.","70 fargo st, boston, ma 02210 boston  US 02210 "
-MA-M,742584D,"Shenzhen smart-core technology co.,ltd.","19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China Shenzhen Guangdong CN 518057 "
 MA-M,7425846,EZECONET,"268-26. Jidong-gil, Apo-eup Gimcheon-si Gyeongsangbuk-do KR 39668 "
 MA-M,B0475E9,MIVO Technology AB,Ruddammsvägen 43 Stockholm  SE 11419 
 MA-M,ACEF925,PROGNOST Systems GmbH,Daimlerstrasse 10 Rheine NRW DE 48431 
@@ -2509,6 +2507,8 @@ MA-M,F8C9D65,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 
 MA-M,F8C9D6A,DIAS Infrared GmbH,Pforzheimer Str. 21 Dresden Saxony DE 01189 
 MA-M,F8C9D6C,"Zhongzhen Huachuang(Shenzhen)Technology Co.,LTD","Zhongzhen Building, No. 68 Luofang Road, Luohu District Shenzhen Guangdong Province CN 518003 "
 MA-M,F8C9D60,"Ningbo Ming Sing Optical R&D Co.,Ltd","No. 365 Middle Jingu Road (west), Panhuo Street,Yinzhou District, Ningbo,Zhejiang Province,China Ningbo Zhejiang Province CN 315100 "
+MA-M,742584D,"Shenzhen smart-core technology co.,ltd.","10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District Shenzhen Guangdong CN 518057 "
+MA-M,DC36436,"Shenzhen smart-core technology co.,ltd.","10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District Shenzhen Guangdong CN 518057 "
 MA-M,B84C87A,"Altronix , Corp","140 58th St. Bldg A, Ste 2N Brooklyn NY US 11220 "
 MA-M,8CC8F47,TableSafe,"12220 113th Ave NE, Suite 220 Kirkland WA US 98034 "
 MA-M,58E8760,"Zhuhai Raysharp Technology Co.,Ltd","No.100 of Keji Liu Rd.6, Hi-Tech Zone Zhuhai Guangdong CN  519080 "
@@ -2535,7 +2535,6 @@ MA-M,58C41E8,"Xiaomi EV Technology Co., Ltd.","Room 618, Floor 6, Building 5, Ya
 MA-M,68DA735,"Shenzhen Xin hang xian Electronics Co., LTD","410, Information Building, Baoyunda Logistics Center, Fuhua Community, Xixiang Street, Baoan District Shenzhen Guangdong CN 518102 "
 MA-M,58C41E2,Truesense Srl,Viale Lombardia 217 Monza MB IT 20900 
 MA-M,C86BBCE,Waterkotte GmbH,Gewerkenstr. 15 Herne  DE 44628 
-MA-M,C86BBC7,"Shenzhen smart-core technology co.,ltd.","19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China Shenzhen Guangdong CN 518057 "
 MA-M,C86BBCC,ZEUS,"132, Annyeongnam-ro Hwaseong Gyeonggi KR 18363 "
 MA-M,C86BBC4,"Liuzhou Zuo You Trade Co., Ltd.","Unit 1004, Unit 4, Building 1, Tsui Yin Kai Court, 234 Tung Wan Road, Tuen Mun, new Liuzhou liuzhou guangxi CN 545001 "
 MA-M,B0FF722,MVT Elektrik Sanayi ve Ticaret Limited Sirketi,"Ismet Kaptan Mh. Sehit Nevres Blv. Deren Plaza Blok no 10, Interior Door:11 Izmir Konak TR 35210 "
@@ -3520,7 +3519,6 @@ MA-M,90A9F78,"BAODING FORLINX EMBEDDEDTECHNOLOGY CO., LTD","No. 2699 Xiangyang N
 MA-M,90A9F73,Suzhou Etag-Technology Corporation,"Room 1506,building E, Nanotechnology University Sciene park, No.388 Ruoshuiroad,Suzhou industrial park Suzhou Jiangsu CN 215123 "
 MA-M,90A9F75,"Shenzhen DOOGEE Hengtong Technology CO.,LTD","B, 2/F, Building A4, Silicon Valley Power Digital Industrial Park, No. 22, Dafu Industrial Zone, Guanlan Aobei Community, Guanlan Street, Longhua New District Shenzhen Guangdong CN 518000 "
 MA-M,90A9F74,LAB-EL ELEKTRONIKA LABORATORYJNA,HERBACIANA 9 REGULY  PL 05-816 
-MA-M,100648B,"Shenzhen smart-core technology co.,ltd.","19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China Shenzhen Guangdong CN 518057 "
 MA-M,1006486,"Hong Kong BOZZ Co., Limited.","NO. 33 MONG KOK ROAD, KOWLOON HONG KONG HONG KONG CN 999077 "
 MA-M,90A9F7E,The Engineerix Group,1418 Beech Ave 119A McAllen TX US 78501 
 MA-M,2CC44F7,NSK Dental Italy,"via dell'agricoltura, 21 Thiene Vicenza IT 36016 "
@@ -3824,6 +3822,8 @@ MA-M,CCE7DEA,Opal Camera Inc.,"150 POST STREET, SUITE 700 SAN FRANCISCO CA US 94
 MA-M,CCE7DE6,Skylight,101a Clay Street #144 San Francisco CA US 94111 
 MA-M,4C6E442,Accutrol LLC,21 Commerce Dr Danbury CT US 06810 
 MA-M,A44F3E4,"ShenZhen hionetech Co,.ltd","2112 Baoshan Times Building ,Minzhi Street LonghuaDistrictShenzhen guangdong CN 518110 "
+MA-M,100648B,"Shenzhen smart-core technology co.,ltd.","10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District Shenzhen Guangdong CN 518057 "
+MA-M,C86BBC7,"Shenzhen smart-core technology co.,ltd.","10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District Shenzhen Guangdong CN 518057 "
 MA-M,D014111,P.B. Elettronica srl,"Via Santorelli, 8 Grugliasco Torino IT 10095 "
 MA-M,B84C876,"HORIBA Precision Instruments (Beijing) Co.,Ltd","Building 1, No.3 Xixing Road, Houshayu Town, Shunyi District, Beijing, China Beijing Shunyi CN 101318 "
 MA-M,C022F13,Spectra Technologies India Private Limited,"8/33-C, FF, SF, Kirti Nagar Industrial Area, New Delhi New Delhi Delhi IN 110015 "
@@ -3931,7 +3931,6 @@ MA-M,F0221D5,"Shenzhen SuyuVisonTechnology Co.,Ltd","16G, Bldg A Haiwang,Yuehai 
 MA-M,F0221D9,Shanghai Gfanxvision Intelligent Technology Co.Ltd,"Room 506, No. 19, No. 498, GuoShouJing Road Shanghai Pudong New Area CN 201203 "
 MA-M,F0221D7,"Bulat Co., Limited","ROOM A1, 11/F WINNER BUILDING,36 MAN YUE STREET, HUNG HOM,KOWLOON,hongkong  hongkong  HK 999077 "
 MA-M,D46137E,UAB Brolis sensor technology,Moletu pl. 73 Vilnius  LT 14259 
-MA-M,D461371,"Shenzhen smart-core technology co.,ltd.","19/F., Finance & Technology Building, No.11 Keyuan Road, Nanshan Dist., Shenzhen, China Shenzhen Guangdong CN 518057 "
 MA-M,D461372,Robert Bosch Elektronikai Kft.,Robert Bosch út 1. Hatvan Heves HU 3000 
 MA-M,D461373,"APPOTRONICS CO., LTD","22F,High-tech Zone Union Tower 63 Xuefu Road Shenzhen China Shenzhen Guangdong CN 518000 "
 MA-M,D461376,Securus CCTV India,"KM Electronic Cables Pvt Ltd, KM House, Near Maurya Complex, Ashram Road Ahmedabad  IN 380014 "
@@ -5089,9 +5088,11 @@ MA-M,A44F3E3,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 
 MA-M,A44F3EB,"Suzhou AIDomex Intelligent Technology Co., Ltd.","B422,18th.Zhanye RD. SIP. Suzhou China Suzhou Jiangsu CN 215122 "
 MA-M,F8C9D62,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,A44F3EA,"CMCNI Co., Ltd",B-601  Hangang Xi Tower Yangcheonro 401 Gangseogu Seoul  KR 07528 
+MA-M,D461371,"Shenzhen smart-core technology co.,ltd.","10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street 10th Floor, Building A, Chuangyi Kexing Science Park, No. 198, Keji Zhongyi Road, Yuehai Street Nanshan District Shenzhen Guangdong CN 518057 "
+MA-M,F8C9D67,Lecip Arcontia AB,Mässans Gata 10 Gothenburg  SE 40224 
+MA-M,F8C9D61,Beijing Mlink Technology Inc.,"5th Floor, North Lobby, Building B, East Side Science and Innovation Center, Phase III, Zhongguancun Dongsheng Science and Technology Park, Haidian District, Beijing Beijing  CN 100080 "
 MA-M,F8C9D63,CPflight_srl,Via_Antica_Regina_24 Tremezzina Como IT 22016 
 MA-M,F8C9D69,Dimetix AG,Degersheimerstrasse 14 Herisau  CH 9100 
-MA-M,F8C9D61,Beijing Mlink Technology Inc.,"5th Floor, North Lobby, Building B, East Side Science and Innovation Center, Phase III, Zhongguancun Dongsheng Science and Technology Park, Haidian District, Beijing Beijing  CN 100080 "
 MA-M,C85CE20,Fela Management AG ,Basadingerstrasse 18 Diessenhofen  CH 8253 
 MA-M,B84C87E,Private,
 MA-M,B84C871,em-trak,"wireless house, westfield industrial estate Midsomer Norton Bath Somerset GB BA3 4BS "
@@ -6380,3 +6381,4 @@ MA-M,A44F3E9,LINK Group Inc.,43855 Plymouth Oaks Blvd Plymouth MI US 48170
 MA-M,A44F3E5,Mobilint,"35, Seolleung-ro 93-gil Seoul Gangnam-gu KR 06151 "
 MA-M,F8C9D6D,Fortis Medical Devices LTD,Barna Road Galway Galway IE H91 HP83 
 MA-M,F8C9D68,"Miri Technologies, Inc",156 Madison Ave Reading PA US 19605 
+MA-M,F8C9D64,Active Research Limited,21 Harwell Road Poole Dorset GB BH17 0GE 
