@@ -7955,6 +7955,7 @@ MA-L,B0FC88,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92
 MA-L,786BA5,"Changchun Jetty Automotive Technology Co., LTD","1st Floor, No. 957 Shunda Road,High-tech Development Zone Changchun Jilin CN 130012 "
 MA-L,D013C1,"Shenzhen Skyworth Digital  Technology  CO., Ltd","4F,Block A, Skyworth?Building, Shenzhen Guangdong CN 518057 "
 MA-L,209395,nVent,"1665 Utica Avenue, Suite 700 St. Louis Park MN US 55416 "
+MA-L,F832BA,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -23586,6 +23587,8 @@ MA-L,B86685,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92
 MA-L,000521,Schneider Electric,48 Steacie Drive Ottawa Ontario CA K2K 2A9 
 MA-L,C44268,"CRESTRON ELECTRONICS, INC.",88 Ramland Road Orangeburg NJ US 10962 
 MA-L,D00C5E,"Nanjing Qinheng Microelectronics Co., Ltd.","No.18, Ningshuang Road  Nanjing Jiangsu CN 210012 "
+MA-L,B81F3F,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,90DA72,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -31517,21 +31520,22 @@ MA-L,48D24F,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92
 MA-L,DC330E,Qingdao Haier Technology Co.Ltd,"Building C01,Haier Information Park,No.1 Haier Road Qingdao  CN 266101 "
 MA-L,44CC6E,Rockwell Automation,1 Allen-Bradley Dr. Mayfield Heights OH US 44124-6118 
 MA-L,6C55F6,eero inc.,660 3rd Street  San Francisco CA US 94107 
+MA-L,A829DC,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,289104,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,2C0613,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
+MA-L,B03FD3,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
+MA-L,C8D778,BSH Hausgeräte GmbH,Im Gewerbepark B10 Regensburg  DE 93059 
+MA-L,B01FF4,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
+MA-L,6418DF,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
+MA-L,D45039,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
+MA-L,647B1E,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
+MA-L,441524,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
+MA-L,D427FF,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
 MA-L,44ADB1,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
 MA-L,D06EDE,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
 MA-L,6CFFCE,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
 MA-L,F04DD4,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
 MA-L,843E03,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
-MA-L,647B1E,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
-MA-L,441524,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
-MA-L,D427FF,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
-MA-L,B01FF4,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
-MA-L,6418DF,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
-MA-L,D45039,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
-MA-L,A829DC,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
-MA-L,289104,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
-MA-L,2C0613,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,C8D778,BSH Hausgeräte GmbH,Im Gewerbepark B10 Regensburg  DE 93059 
 MA-L,547370,The LEGO Group,Åstvej 1 7190 Billund Denmark Billund Jylland DK 7190 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
@@ -39383,3 +39387,5 @@ MA-L,A039F9,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92
 MA-L,54B27E,Sagemcom Broadband SAS, 4 Allée des Messageries Bois Colombes FR 92270  
 MA-L,5022C9,"Bel Power Solutions, Inc.",1326 South Wolf Road Wheeling IL US 60090 
 MA-L,745D43,BSH Hausgeräte GmbH,Im Gewerbepark B10 Regensburg  DE 93059 
+MA-L,B490E5,"GD Midea Air-Conditioning Equipment Co.,Ltd.","Midea Global Innovation Center,Beijiao Town,Shunde Foshan Guangdong CN 528311 "
+MA-L,B8DC7D,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
