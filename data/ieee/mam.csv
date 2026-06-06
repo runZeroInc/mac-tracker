@@ -199,7 +199,6 @@ MA-M,F4A4544,Earshots,Aviation Way Palmerston North Manawatu NZ 4410
 MA-M,F4700C2,"Beijing ASU Tech Co., Ltd.","11th Floor Block A, Beijing Normal University Science & Technology Mansion, No.12 Xueyuan South Road,Haidian District,Beijing, China Beijing  CN 100088 "
 MA-M,F4700C9,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
 MA-M,7872648,"Gsou Technology(Shenzhen)Co.,Ltd","18B.Block B,First World Plaza,No.7002 West HongLi road,Futian, ShenZhen  CN 518000 "
-MA-M,F4700CD,Freeus LLC,"1069 Stewart Drive, Suites 3-6 Ogden UT US 84404 "
 MA-M,7872649,"SHENZHEN FANGZHICHENG TECHNOLOGY CO., LTD.","SHENZHEN FANGZHICHENG TECHNOLOGY CO., LTD. SHENZHEN GUANGDONG CN 518000 "
 MA-M,986EE8C,Sercomm Corporation.,"3F,No.81,Yu-Yih Rd.,Chu-Nan Chen Miao-Lih Hsuan  TW 115 "
 MA-M,9880BB4,"Shenzhen Ginto E-commerce CO.,LTD","Room 1308-1309, Building B, Huihai Square, Chuangye Road, Longhua District, Shenzhen Shenzhen Guangdong CN 570100 "
@@ -1302,6 +1301,7 @@ MA-M,0C0EC1A,Sonoro Audio GmbH,Hammer Landstraße 45 Neuss  DE 41460
 MA-M,0C0EC10,Spintronica LLC,Lubyanka M. Street Moscow  RU 101000 
 MA-M,0C0EC1D,Aerora North America,"4784 N. Lombard St. Suite B, PMB #167 Portland OR US 97203 "
 MA-M,304950A,Illucere Srl,Via Primo Maggio 1 Mestrino  PD IT 35035  
+MA-M,F4700CD,"Becklar, LLC","1069 Stewart Drive, Suites 3-6 Ogden UT US 84404 "
 MA-M,B84C873,"Shenzhen Link-all Technology Co., Ltd","Floor 5th, Block 9th, Sunny Industrial Zone, Xili Town, Nanshan District, Shenzhen, China  Shenzhen Guangdong CN 518108 "
 MA-M,B84C87C,SOND,"1295 Beacon St, Unit #899 Brookline  US 02446 "
 MA-M,B84C87B,"Beijing Yunji Technology Co., Ltd.","Floor 7?Hailong Mansion?No.1 Zhongguancun Avenue,Haidian District,Beijing Beijing  CN 100080 "
@@ -1755,7 +1755,6 @@ MA-M,C82C2BC,Smart Wires Inc,3292 Whipple Road Union City  CA US 94587
 MA-M,B0FD0B1,IDspire Corporation Ltd.,"9F, No. 266, Sec. 1, Wenhua Rd., Banqiao Dist. New Taipei City  TW 22041 "
 MA-M,C82C2BE,Fränkische Rohrwerke Gebr. Kirchner GmbH & Co. KG,Hellinger Str. 1 Königsberg/Bayern  DE 97486 
 MA-M,C86314E,Taylor Dynamometer,3602 W Wheelhouse Rd. Milwaukee WI US 53208 
-MA-M,C86314C,Freeus LLC,"1069 Stewart Drive, Suites 3-6 Ogden UT US 84404 "
 MA-M,C863140,"Western Reserve Controls, Inc.",1485 Exeter Dr. Akron OH US 44306 
 MA-M,E41E0AA,FireAngel Safety Technology Ltd,"Sir William Lyons Road, Vanguard Centre Coventry Warwickshire GB CV4 7EZ "
 MA-M,C863145,Meyer Electronics Limited,382 Kwun Tong Road Hong Kong  HK 0000 
@@ -2523,6 +2522,7 @@ MA-M,8C147DA,KPAX,1 Allée de Londres - Batiment Les Bénares Villejust Essonne 
 MA-M,A024907,VELVU TECHNOLOGIES PRIVATE LIMITED,"F-2, RIICO INDUSTRIAL AREA, BINDAYAKA JAIPUR RAJASTHAN IN 302012 "
 MA-M,A02490D,JKIN,"#615 Mecazone, 117 Hwanggeum-ro Gimpo Gyeonggi  KR 10048 "
 MA-M,A024905,Nektar Inc.,14420 154 Ave Edmonton Alberta CA T6V 0K8 
+MA-M,C86314C,"Becklar, LLC","1069 Stewart Drive, Suites 3-6 Ogden UT US 84404 "
 MA-M,B84C87A,"Altronix , Corp","140 58th St. Bldg A, Ste 2N Brooklyn NY US 11220 "
 MA-M,8CC8F47,TableSafe,"12220 113th Ave NE, Suite 220 Kirkland WA US 98034 "
 MA-M,58E8760,"Zhuhai Raysharp Technology Co.,Ltd","No.100 of Keji Liu Rd.6, Hi-Tech Zone Zhuhai Guangdong CN  519080 "
@@ -4886,7 +4886,6 @@ MA-M,5C87D86,"Shanghai Jianyi Technology Co., Ltd","300 Fang Chun Rd., Zhangjian
 MA-M,5C87D8D,Zilia Technologies,"Tegula, 888 Atibaia Sao Paulo BR 12952820 "
 MA-M,5C87D85,"Hangzhou Advanced Intelligent Manufacturing Systems Co.,Ltd.","16-18F Bldg. B, 482 Qianmo Rd., Binjiang Dist., Hangzhou,  CN 310015 "
 MA-M,5C87D89,Annapurna labs,"Matam Scientific Industries Center,   Building 8.2 Mail box 15123 Haifa IL 3508409 "
-MA-M,5C87D82,Freeus LLC,"1069 Stewart Drive, Suites 3-6 Ogden UT US 84404 "
 MA-M,5C5A4C1,Orchid Products Limited,"Unit 702, 7th Floor, One Hung To Road Kwun Tong Hong Kong HK kl1 "
 MA-M,5C5A4CA,"Chengdu Skysoft Info&Tech Co.,Ltd.","7th floor, Building C7, Tianfu Software Park, No.219 Tianhua 2nd Road, High tech Zone Chengdu Sichuan CN 610041 "
 MA-M,5C5A4CE,AI-RIDER CORPORATION,"4F., NO.6, WENHU ST., NEIHU DIST. Taipei City  TW 11445 "
@@ -5124,6 +5123,7 @@ MA-M,0C0EC1C,Insky Communications Private Limited,"Block-D/102, Paras Maitri, An
 MA-M,0C0EC18,BITS AND BYTE IT CONSULTING PVT LTD,"NO 52, 2ND FLOOR, VITTAL MALLYA ROAD BANGALORE KARNATAKA IN 560001 "
 MA-M,A024909,"SANSHA ELECTRIC MANUFACTURING CO., LTD.","3-1-56, Nishiawaji, Higashiyodogawa-ku Osaka  JP 533-0031 "
 MA-M,A024900,Jackal Design LLC,410 Atlantic Avenue Rochester NY US 14609 
+MA-M,5C87D82,"Becklar, LLC","1069 Stewart Drive, Suites 3-6 Ogden UT US 84404 "
 MA-M,C85CE20,Fela Management AG ,Basadingerstrasse 18 Diessenhofen  CH 8253 
 MA-M,B84C87E,Private,
 MA-M,B84C871,em-trak,"wireless house, westfield industrial estate Midsomer Norton Bath Somerset GB BA3 4BS "
