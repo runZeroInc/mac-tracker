@@ -1041,7 +1041,6 @@ MA-L,44BDDE,BHTC GmbH,Hansastrasse 40 Lippstadt  DE 59557
 MA-L,B4608C,"Fiberhome Telecommunication Technologies Co.,LTD",No.5 DongXin Road Wuhan Hubei CN 430074 
 MA-L,F40223,PAX Computer Technology(Shenzhen) Ltd.,"4/F, No.3 Building, Software Park, Second Central Science-Tech Road, High-Tech Shenzhen GuangDong CN 518057 "
 MA-L,6479F0,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,081086,"NEC Platforms, Ltd.",2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 
 MA-L,78653B,"Shaoxing Ourten Electronics Co., Ltd.","3rd Floor # 7, No. 1732 Yanhua industrial park West Renmin Road,Shangyu Shaoxing Zhejiang CN 312000 "
 MA-L,E0E656,Nethesis  srl,strada degli olmi 12 Pesaro Pesaro e Urbino IT 61122 
 MA-L,4CF202,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -2058,7 +2057,6 @@ MA-L,B0ACD2,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,200F70,FOXTECH,152-160 City Road LONDON KEMP HOUSE GB EC1V 2NX 
 MA-L,007147,Amazon Technologies Inc.,P.O Box 8102 Reno NV US 89507 
 MA-L,00BE75,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
-MA-L,6CE4DA,"NEC Platforms, Ltd.",2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 
 MA-L,E4C483,"GUANGDONG OPPO MOBILE TELECOMMUNICATIONS CORP.,LTD","NO.18 HAIBIN ROAD, DONG GUAN GUANG DONG CN 523860 "
 MA-L,001FBA,Boyoung Tech,Youngdeungpo-Gu Munrae3ga 84-2 Seoul  KR 150-093 
 MA-L,DCA333,"Shenzhen YOUHUA Technology Co., Ltd	","Room 407 Shenzhen University-town Business Park,Lishan Road,Taoyuan Street,Nanshan District Shenzhen Guangdong CN 518055 "
@@ -7959,15 +7957,18 @@ MA-L,48E729,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Ro
 MA-L,68C63A,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,348518,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,10061C,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
-MA-L,AC1518,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
-MA-L,F09E9E,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,DC0675,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,588C81,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,FC012C,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,80F3DA,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,80B54E,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,140808,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+MA-L,AC1518,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+MA-L,F09E9E,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+MA-L,6CE4DA,"NEC Platforms, Ltd.","14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
+MA-L,081086,"NEC Platforms, Ltd.","14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
 MA-L,5CBA75,"Quectel Wireless Solutions Co.,Ltd.","Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District Shanghai  CN 200233 "
+MA-L,04FB66,Ericsson AB,Torshamnsgatan 36 Stockholm  SE SE-164 80 
 MA-L,000130,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,FC0A81,Extreme Networks Headquarters,2121 RDU Center Drive  Morrisville NC US 27560 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
@@ -9344,7 +9345,6 @@ MA-L,9880EE,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 7
 MA-L,90EEC7,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,1029AB,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
 MA-L,184ECB,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,8022A7,"NEC Platforms, Ltd.",2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 
 MA-L,5C2316,Squirrels Research Labs LLC,8050 Freedom Ave NW Suite B North Canton OH US 44720 
 MA-L,985949,LUXOTTICA GROUP S.P.A.,"Piazzale Cadrona, 3 Milano MI IT 20132 "
 MA-L,64E172,"Shenzhen Qihoo Intelligent Technology Co.,Ltd","Room 201,Block A.No.1,Qianwan Road1 Qianhai Shenzhen-HONGKONG Cooperation Zone Shenzhen Guangdong CN 5181000 "
@@ -15802,6 +15802,8 @@ MA-L,D8132A,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Ro
 MA-L,5443B2,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,BC1469,"Phyplus Technology (Shanghai) Co., Ltd","3th Floor, Building 23, 676 Wuxing Road, Pudong New District, Shanghai Shanghai Shanghai CN 201204 "
 MA-L,543CED,Sagemcom Broadband SAS,4 Allée des Messageries Bois-Colombes haut de seine FR 92270  
+MA-L,8022A7,"NEC Platforms, Ltd.","14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
+MA-L,586D0C,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -15921,7 +15923,6 @@ MA-L,A8584E,PK VEGA,"2 Stroitelny lane, office 20 Moscow Electrostal RU 144001 "
 MA-L,C47EE0,"Cisco Systems, Inc",80 West Tasman Drive San Jose CA US 94568 
 MA-L,1091D1,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,6C4CE2,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
-MA-L,1C7C98,"NEC Platforms, Ltd.",2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 
 MA-L,00E04D,"INTERNET INITIATIVE JAPAN, INC",Iidabashi Grand Bloom 2-10-2 Fujimi Tokyo Chiyoda-ku JP 102-0071 
 MA-L,743AEF,"Kaon Group Co., Ltd.","884-3, Seongnam-daero, Bundang-gu Seongnam-si Gyeonggi-do KR 13517 "
 MA-L,F854F6,AzureWave Technology Inc.,"8F., No. 94, Baozhong Rd. New Taipei City Taiwan TW 231 "
@@ -18237,7 +18238,6 @@ MA-L,30E171,Hewlett Packard,11445 Compaq Center Drive Houston TX US 77070
 MA-L,F015B9,PlayFusion Limited,St  Johns Innovation Centre Cambridge  GB CB4 0WS 
 MA-L,64136C,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen guangdong CN 518057 "
 MA-L,04B648,ZENNER,Roemerstadt 6 Saarbruecken  DE 66121 
-MA-L,98F199,"NEC Platforms, Ltd.",2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 
 MA-L,1840A4,"Shenzhen Trylong Smart Science and Technology Co., Ltd.","15E, qingdian building, No#6007, Binhe road, futian district Shenzhen city Guangdong Province CN 518100 "
 MA-L,4C7487,"Leader Phone Communication Technology Co., Ltd.","121 Room (Park) No.1 Building, No.10 Xinghuo Road  Science City Feng-tai District, Beijing, China Beijing  CN 100070 "
 MA-L,4C38D5,MITAC COMPUTING TECHNOLOGY CORPORATION,"3F., NO.1, R&D ROAD 2, HSINCHU SCIENCE PARK HSINCHU  TW 30076 "
@@ -23654,6 +23654,10 @@ MA-L,9454C5,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Ro
 MA-L,78421C,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,748B23,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
 MA-L,200D3D,"Quectel Wireless Solutions Co.,Ltd.","Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District Shanghai  CN 200233 "
+MA-L,98F199,"NEC Platforms, Ltd.","14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
+MA-L,1C7C98,"NEC Platforms, Ltd.","14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
+MA-L,A0CA4A,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
+MA-L,4C80FB,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -30912,7 +30916,6 @@ MA-L,2CDA3F,DongGuan Ramaxel Memory Technology Limited,"32 Industrial East Road,
 MA-L,BCA68D,Continetal Automotive Systems Sibiu,Str. Salzburg nr.8 Sibiu  RO 550018 
 MA-L,804AF2,"Sonos, Inc.",301 Coromar Dr Goleta CA US 93117 
 MA-L,941724,"Anhui Guoke Ruidian communication technology  Co.,Ltd.","Room A403, East Side of Building A, Guoke Zhian Zhi HUI An Quan Gu , No. 469 Huatuo Alley, Changning Community Service Center, High-Tech Zone, Hefei, Anhui Province, China HEiFEI High-Tech Zone CN 230000 "
-MA-L,343839,"NEC Platforms, Ltd.",2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 
 MA-L,A09A52,"Shenzhen MoreSense Technology Co., Ltd. ","#206 Building A1,#663 Bulong Road,Dafapu Community,Bantian Street, Shenzhen Guangdong CN 518129 "
 MA-L,30F028,Bosch Sicherheitssysteme GmbH,Fritz-Schäffer-Straße 9 Munich  DE 81737 
 MA-L,50787D,Espressif Inc.,"Room 204, Building 2, 690 Bibo Rd, Pudong New Area Shanghai Shanghai CN 201203 "
@@ -31623,6 +31626,8 @@ MA-L,C05097,EG4 Electronics,1030 Como St Sulphur Springs TX US 75482
 MA-L,3C227F,"Quectel Wireless Solutions Co.,Ltd.","Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District Shanghai  CN 200233 "
 MA-L,5037CD,"Quectel Wireless Solutions Co.,Ltd.","Building 5, Shanghai Business Park Phase III (Area B), No.1016 Tianlin Road, Minhang District Shanghai  CN 200233 "
 MA-L,2C2B86,Sagemcom Broadband SAS,4 Allée des Messageries Bois-Colombes haut de seine FR 92270  
+MA-L,28B3AF,Qualynxus Inc,10080 N Wolfe Road Suite SW3273 Cupertino  US 95014 
+MA-L,343839,"NEC Platforms, Ltd.","14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -32348,7 +32353,6 @@ MA-L,BC2247,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District
 MA-L,20AF1B,SteelSeries ApS,"656 West Randolph, Suite 2E Chicago IL US 60661 "
 MA-L,000AC2,"Wuhan FiberHome Digital Technology Co.,Ltd.","No.88 YouKeyuan Road,Hongshan District,W Wuhan Hubei CN 430074 "
 MA-L,704CB6,"Shenzhen SuperElectron Technology Co.,Ltd.","1213-1214, haosheng business center, dongbin road, nanshan street, nanshan district, shenzhen city Shenzhen Guangdong CN 518000 "
-MA-L,549B49,"NEC Platforms, Ltd.",2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 
 MA-L,7C7716,Zyxel Communications Corporation,"No. 6 Innovation Road II, Science Park Hsichu Taiwan TW 300 "
 MA-L,943FBB,JSC RPC Istok named after Shokin,"Room 65, Floor 2,  Building 1,  2A, Vokzalnaya Street Fryazino Moscow Region RU 141190 "
 MA-L,50E7B7,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
@@ -34930,7 +34934,6 @@ MA-L,C04A09,"Zhejiang Everbright Communication Equip. Co,. Ltd",291# Wei 19th Rd
 MA-L,84100D,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
 MA-L,D00F6D,T&W Electronics Company,"89# Jiang Nan RD, Lu Du Taicang Jiangsu CN 21500 "
 MA-L,48137E,"Samsung Electronics Co.,Ltd","#94-1, Imsoo-Dong Gumi Gyeongbuk KR 730-350 "
-MA-L,C025A2,"NEC Platforms, Ltd.",2-3 Kandatsukasamachi Chiyodaku Tokyo JP 101-8532 
 MA-L,908D78,D-Link International,"1 Internal Business Park, #03-12,The Synergy Singapore  Singapore SG 609917 "
 MA-L,E435C8,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,80D605,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -39499,3 +39502,7 @@ MA-L,84C065,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO
 MA-L,64E833,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,64B708,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
 MA-L,306222,"Samsung Electronics Co.,Ltd","129, Samsung-ro, Youngtongl-Gu Suwon Gyeonggi-Do KR 16677 "
+MA-L,C025A2,"NEC Platforms, Ltd.","14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
+MA-L,549B49,"NEC Platforms, Ltd.","14-1, Shiba 4-chome Minato-ku Tokyo JP 108-8556 "
+MA-L,FC934E,REALTEK SEMICONDUCTOR CORP.,"1F, NO. 11, INDUSTRY E. RD. IX HSINCHU 300  TW  "
+MA-L,A0B15C,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
