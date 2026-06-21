@@ -8,7 +8,7 @@ permissions:
 name: 'Auto: Update files from IEEE'
 jobs:
   generate:
-    runs-on: self-hosted
+    runs-on: lab-big
     steps:
       - name: Checkout code
         uses: actions/checkout@v6
