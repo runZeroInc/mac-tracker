@@ -9,7 +9,7 @@ name: 'Auto: Update files from IEEE'
 jobs:
   generate:
     runs-on:
-      labels: lab-big
+      labels: "self-hosted"
     steps:
       - name: Checkout code
         uses: actions/checkout@v6
