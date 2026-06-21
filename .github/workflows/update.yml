@@ -8,7 +8,8 @@ permissions:
 name: 'Auto: Update files from IEEE'
 jobs:
   generate:
-    runs-on: lab-big
+    runs-on:
+      labels: lab-big
     steps:
       - name: Checkout code
         uses: actions/checkout@v6
