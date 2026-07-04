@@ -1380,6 +1380,7 @@ MA-S,8C1F641CC,TEX COMPUTER SRL ,Via O. Respighi 13 CATTOLICA  RIMINI  IT 47841
 MA-S,8C1F6451C,"JS Tech Co., Ltd.","Room 807, Building A, 190 Soha-ro Gwangmyeong-si Gyeonggi-do KR 14322 "
 MA-S,8C1F6466D,VT100 SRL,Viale Dell'Artigianato 4 Caldiero ITALY IT 37042 
 MA-S,8C1F64E0D,MyDefence A/S,Bouet Mollevej 5 Norresundby NJ DK 9400 
+MA-S,8C1F64955,Talleres de Escoriaza SAU,"Barrio Ventas 35, Irun Irun Gipuzkoa ES 20305 "
 MA-S,8C1F648EF,Osec,netwerk 120 Purmerend  NL 1446XA 
 MA-S,8C1F64ABA,FLUGCOM GmbH,Lyoner str. 15 Frankfurt am Main Hessen DE 60528 
 MA-S,8C1F64362,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
@@ -1387,22 +1388,21 @@ MA-S,8C1F64DA6,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 
 MA-S,8C1F64B9E,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
 MA-S,8C1F64FE3,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
 MA-S,70B3D5632,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
-MA-S,70B3D556E,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
-MA-S,8C1F64955,Talleres de Escoriaza SAU,"Barrio Ventas 35, Irun Irun Gipuzkoa ES 20305 "
 MA-S,8C1F6436D,WAVEBAND TECHNOLOGIES PVT LIMITED,"103, VISHAL TOWER, JANAKPURI DISTRICT CENTRE,  NEW DELHI DELHI IN 110058 "
 MA-S,8C1F645CA,Vitaltrace PTY LTD,43 Action Road Malaga WA AU 6090 
-MA-S,8C1F6482C,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
+MA-S,70B3D556E,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
 MA-S,70B3D5B56,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
+MA-S,8C1F6482C,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
 MA-S,8C1F646C7,Pionierkraft GmbH,Osterwaldstr. 10 - D13 Munich Bavaria DE 80805 
-MA-S,8C1F64C7F,Brightwell Dosing ltd,Avis Way Newhaven East Sussex GB BN9 0DU 
 MA-S,8C1F640DE,ACE TECH,"57, Hyeoksinsandan 3-gil, Wanggok-myeon, Naju-si, Jeollanam-do, Republic of Korea Naju-si Jeollanam-do KR 58296 "
+MA-S,8C1F64C7F,Brightwell Dosing ltd,Avis Way Newhaven East Sussex GB BN9 0DU 
 MA-S,8C1F64FBC,Immersive Audio Technologies,13 rue Benoit Frachon Saint Herblain Pays de la Loire FR 44800 
 MA-S,8C1F64084,KST technology,"KST B/D 4-5, Wiryeseong-daero 12-gil Songpa-gu Seoul KR 05636 "
 MA-S,8C1F64CC3,KRONOTECH SRL,VIALE UNGHERIA 125 UDINE ITALY/UDINE IT 33100 
 MA-S,8C1F64847,SLAT,11 Rue Jean-Elysée DUPUY Champagne au Mont d'Or Rhône FR 69543 
-MA-S,8C1F64112,ISAC SRL,via Maestri del Lavoro 30 CASCINA PISA IT 56021 
 MA-S,8C1F6400E,HAMAYAN TECHNOLOGY ,18 HA'MAHAYAN STREET  RAANANA  IL 4356943 
 MA-S,8C1F64FC7,Azura Technology Co. Ltd.,New Material International Innovation Centre Block A7 Ningbo Zhejiang CN 000000 
+MA-S,8C1F64112,ISAC SRL,via Maestri del Lavoro 30 CASCINA PISA IT 56021 
 MA-S,8C1F64C89,MB connect line GmbH,Winnettener Strasse 6 Dinkelsbuehl Bavaria DE 91550 
 MA-S,8C1F64212,SVMS,ZA de Berroueta Urrugne  FR 64122 
 MA-S,8C1F6461E,HEDIAN DIGITAL INTEGRATION TECHNOLOGY LTD.,"3F-6,No.26,Guanqian E.Rd.,Banqiao Dist New Taipei City  TW 220066 "
@@ -2710,7 +2710,6 @@ MA-S,8C1F64072,"Eyecloud, Inc","171 Branham Ln, Ste 10-243 San Jose CA US 95136 
 MA-S,70B3D549E,"CAPTEMP, Lda","Rua Dr. José António Varela Pinto, 1A Pombal Zona industrial da Formiga PT 3100-513 "
 MA-S,8C1F6416F,Codasip s.r.o.,"Šumavská 416/15, 602 00 Brno-Královo Pole Brno  CZ 60200 "
 MA-S,8C1F6445E,"Hangzhou Zhongchuan Digital Equipment Co., Ltd.","Building 1, 5th Floor, Zone 1, Zhuantang Science and Technology Economic Block 8, Zhuantang Street, Xihu District, Hangzhou, Zhejiang, China. Hangzhou  CN 310024 "
-MA-S,8C1F641A8,Private,
 MA-S,8C1F64199,"Shenzhen Arctec Innovation Technology Co.,Ltd","Room711-713, Yuefu Square, No.481, Fenghuang Street, Guangming Area Shenzhen Guangdong CN 518107 "
 MA-S,70B3D54B7,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
 MA-S,70B3D5BFE,Aplex Technology Inc.,"15F-1, No.186, Jian Yi Road  Zhonghe District New Taipei City 235 TW  - "
@@ -2830,9 +2829,10 @@ MA-S,8C1F64E69,FullohmKD,150 GONGDAN-RO GUNPO GYEONGI KR 15845
 MA-S,8C1F64997,"Daifuku CO., Ltd.","1225 Nakazaiji, Hino-cho, Gamo-gun, Shiga Gamo-gun Shiga-ken JP 529-1692 "
 MA-S,8C1F641F2,Spyder Controls Corp.,7102-52 Street #10 Lacombe AB CA T4L 1Y9 
 MA-S,8C1F64428,Greenerwave,35 rue du sentier 75002 paris  FR 75002 
-MA-S,8C1F645A8,VERSABYTE DATA SYSTEMS PVT LTD,24 / 6  20TH MAIN 1ST R BLOCK RAJAJINAGAR BANGALORE KARNATAKA IN 560010 
 MA-S,8C1F64B76,Bavaria Digital Technik GmbH,Rehbichler Weg 26 Pfronten Bayern DE 87459 
 MA-S,8C1F6470D,Solace Systems Inc.,"535 Legget Drive, Kanata Ontario CA K2K3B8 "
+MA-S,8C1F645A8,VERSABYTE DATA SYSTEMS PVT LTD,24 / 6  20TH MAIN 1ST R BLOCK RAJAJINAGAR BANGALORE KARNATAKA IN 560010 
+MA-S,8C1F641A8,LCR Embedded Systems,     
 MA-S,8C1F64E6F,Vision Systems Safety Tech,5 Chemin de Chiradie Brignais  FR 69530 
 MA-S,70B3D5119,YPP Corporation,24 Geumchon-gu Seoul KR 153-802 
 MA-S,70B3D5159,RCH SPA,Via Cendon 39 Silea  IT 31057 
@@ -4243,8 +4243,8 @@ MA-S,8C1F649AA,xTools Inc.,"651 North Broad Street, 201 Middletown DE US 19709 "
 MA-S,8C1F6489A,"National Control Devices, LLC",430 Market St  Osceola  MO US 64776 
 MA-S,8C1F64A6C,Arctic Instruments Oy,Tekniikantie 14 Espoo  FI 02150 
 MA-S,8C1F6474D,IDUN Technologies AG,Vega-Strasse 3 Opfikon  CH 8152 
-MA-S,8C1F649EE,Möbus Engineering GmbH,Adam-Opel-Straße 3 Trebur Hessen DE 65468 
 MA-S,8C1F64B33,Skylark Lasers,"Phase One, Ratho park, 88 Glasgow Rd, Ratho Station, Newbridge Edinburgh  GB EH28 8PP "
+MA-S,8C1F649EE,Möbus Engineering GmbH,Adam-Opel-Straße 3 Trebur Hessen DE 65468 
 MA-S,70B3D5148,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
 MA-S,8C1F64773,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
 MA-S,8C1F6433F,Lotec Teknoloji Limited Sirketi,Universiteler Mh. 1596 Cd. Hacettepe Teknokent 6. Ar-Ge C Blok No: 6C Ofis: 28 Cankaya Ankara TR 06800 
@@ -4254,8 +4254,8 @@ MA-S,8C1F64975,Preston Industries dba PolyScience,6600 W. Touhy Ave Niles IL US 
 MA-S,8C1F643C3,Digilube Systems Inc,216 E Mill St Springboro OH US 45066 
 MA-S,8C1F640CF,R2Vision GmbH,Lindener Str. 58 Bochum  DE 44879 
 MA-S,8C1F6477D,Event Acoustics B.V.,Proostwetering 50 Utrecht  NL 3543AH 
-MA-S,8C1F6489F,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63043 
 MA-S,8C1F64413,Potter Electric Signal Company,5757 Phantom Drive Hazelwood MO US 63042 
+MA-S,8C1F6489F,Potter Electric Signal Co. LLC,1609 Park 370 Place Hazelwood MO US 63043 
 MA-S,8C1F64EE9,Intect AG,Nordstrasse 167 Zurich ZH CH 8037 
 MA-S,8C1F64039,Breas Medical AB,Företagsvägen 1 Mölnlycke  SE SE-435 33 
 MA-S,8C1F640B3,NetSense CyberSecurity Private Limited,"#1708, Ramdev Galli, Belagavi Belagavi Karnataka IN 590001 "
@@ -5665,12 +5665,12 @@ MA-S,8C1F64DD0,GENIUS SPORTS,VIA ELETTRICISTA 10 BOLOGNA BOLOGNA IT 40138
 MA-S,8C1F644BD,ZTZ Services International,655 NW 128th Street North Miami FL US 33168 
 MA-S,8C1F64C0F,KONAX BV,Hondekensmolenstraat 56  Izegem  BE 8870 
 MA-S,8C1F646F5,Logic Fruit Technologies Pvt. Ltd.,"Logic Fruit Technologies Pvt. Ltd 7TH FLOOR, 703 BPTP PARK CENTRA, Sector 30 Star Mall, Gurugram Haryana IN 122001 "
-MA-S,8C1F64701,Wilton Arthur Poth,Fasanenweg 3 Roßdorf-Gundernhausen  DE 64380 
-MA-S,8C1F643A7,FormFactor,7005 Southfront Road Livermore CA US 94551 
 MA-S,8C1F64792,MDS TECH ,"9F, DTC Tower, 49, Daewangpangyo-ro 644beon-gil, Bundang-gu Seongnam  KR 13493 "
+MA-S,8C1F64701,Wilton Arthur Poth,Fasanenweg 3 Roßdorf-Gundernhausen  DE 64380 
 MA-S,8C1F64E16,Slipstream Engineering Design Ltd,"Shipley Wharf, Unit D Upper, Wharf Street Shipley  GB BD17 7DW "
-MA-S,8C1F64AB8,Charles Industries,     
+MA-S,8C1F643A7,FormFactor,7005 Southfront Road Livermore CA US 94551 
 MA-S,8C1F64DF4,Anglian Water Business (National) Limited,"Northumbria House, Abbey Road, Pity Me Durham County Durham GB DH1 5FJ "
+MA-S,8C1F64AB8,Charles Industries,     
 MA-S,8C1F64F29,HORIZON.INC,"1600 Aza-Shironoshita Asahi Shin Asahi-cho Takashima, Shiga JP 520-1501 "
 MA-S,8C1F64711,"Jiangsu Ruichi Broadcom Communications Technoligy Co., Ltd.","14th Floor, Liancheng Hui, 9 Yikang Street, Jianye District Nanjing Jiangsu CN 210000 "
 MA-S,8C1F64D63,Mobileye,13 Hartom st. Jerusalem  IL 91450 
@@ -7050,27 +7050,27 @@ MA-S,8C1F64310,"CrossBar, Inc.",2055 Laurelwood Rd. Suite 230 Santa Clara CA US 
 MA-S,8C1F64EC5,"Stanley Black & Decker Engineered Fastening (Nantong) Co., Ltd.","No.666 Huatong Road, High-tech Industrial Development Zone, Tongzhou District, Nantong City, Jiangsu Province, China Nantong Jiangsu CN 226315 "
 MA-S,8C1F64007,"INTOWN CO., LTD.","No.401 Intelliumcentum,21,Centum 6-ro,Haeundae-gu Busan  KR 48059 "
 MA-S,8C1F6436C,Scramble Tools LLC,"1401 21st ST, #7216 Sacramento  US 95811 "
-MA-S,8C1F64C77,VNET Corp.,"B-1202, 128, Beobwon-ro, Songpa-gu  Seoul  KR 05854 "
 MA-S,8C1F64EC3,Scenario Automation,"Rua Paulo Elias, 216 São Carlos São Paulo BR 13564400 "
+MA-S,8C1F64C77,VNET Corp.,"B-1202, 128, Beobwon-ro, Songpa-gu  Seoul  KR 05854 "
 MA-S,8C1F64182,Private,
+MA-S,8C1F648BB,swiss electronic creation GmbH,Allmendstrasse 29 Fehraltorf  CH 8320 
 MA-S,8C1F64602,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
 MA-S,8C1F64D08,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
 MA-S,8C1F64C2F,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
 MA-S,8C1F645E1,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
 MA-S,8C1F641CA,"Power Electronics Espana, S.L.","RONDA DEL CAMP DE AVIACIO, NO. 4 CARRASES INDUSTRIAL ESTATE LLÍRIA  Valencia ES 46160  "
-MA-S,8C1F648BB,swiss electronic creation GmbH,Allmendstrasse 29 Fehraltorf  CH 8320 
 MA-S,8C1F64F82,SEORIM TECHNOLOGY,"145, Gasan digital 1-ro Acehighend 3rd #Room904 Geumcheon-gu Seoul KR 08506 "
-MA-S,8C1F64AEB,Sedna,35 Angus Crescent Edenvale Gauteng ZA 1609 
-MA-S,70B3D5ADC,SODAQ,Bussumerstraat 34 Hilversum - NL 1211 BL 
 MA-S,8C1F64B01,Terranova Industries UG (haftungsbeschränkt),Kurt-Günther-Straße 22 Leipzig  DE 04317 
+MA-S,70B3D5ADC,SODAQ,Bussumerstraat 34 Hilversum - NL 1211 BL 
+MA-S,8C1F64AEB,Sedna,35 Angus Crescent Edenvale Gauteng ZA 1609 
 MA-S,8C1F64974,REO AG,Brühlerstr. 100 Solingen  DE 42657 
 MA-S,8C1F64411,Pioneer Century Infocomm Pte Ltd,26 Sin Ming Lane #03-118 Midview City Singapore Singapore SG 573971 
 MA-S,8C1F644B6,Pantherun Technologies Pvt Ltd,311 6th main road Hal 2nd stage Bangalore Karnataka IN 560038 
+MA-S,8C1F6496D,Sörgel Elektronik,Oberer Garten 5 Kressbronn  DE 88079 
+MA-S,8C1F64E97,"Lucint Systems, Inc.",6635 N Baltimore Ave Ste 246 Portland OR US 97203 
 MA-S,8C1F644B7,ATTE POWER,Ul. Cegielskiego 2A Myslenice Małopolskie PL 32-400 
 MA-S,8C1F646BC,Harik Tech,"Rte de la Plaine, 4 Chavannes-pres-Renens Vaud CH 1022 "
-MA-S,8C1F64E97,"Lucint Systems, Inc.",6635 N Baltimore Ave Ste 246 Portland OR US 97203 
-MA-S,8C1F6496D,Sörgel Elektronik,Oberer Garten 5 Kressbronn  DE 88079 
 MA-S,8C1F64492,DEUTA-WERKE GmbH,Paffrather Str. 140 Bergisch Gladbach North Rhine-Westphalia DE 51465 
-MA-S,8C1F64E81,Sunair Electronics,3131 SW 42nd Street Fort Lauderdale FL US 33312 
 MA-S,8C1F647C3,"The Blue Box Biomedical Solutions, SL","Casa Ballester, Carrer Unió, 30 Vallmoll Tarragona / Spain ES 43144 "
+MA-S,8C1F64E81,Sunair Electronics,3131 SW 42nd Street Fort Lauderdale FL US 33312 
 MA-S,8C1F64EE0,CEM Ltd,700 Blue Point Road Holtsville NY US 11742 
