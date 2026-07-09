@@ -7956,7 +7956,6 @@ MA-L,44291E,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijin
 MA-L,2C79BE,"TP-LINK TECHNOLOGIES CO.,LTD.","2-7th floors of South Building and 3-11th floors of North Building, No. 396, Jucai Road, Changhe Street, Binjiang District Hangzhou City Zhejiang Province, CN 310000 "
 MA-L,0423A3,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
 MA-L,2CE5BD,Ubiquiti Inc,"685 Third Avenue, 27th Floor New York NY US New York NY 10017 "
-MA-L,5CE753,Shenzhen Intellirocks Tech. Co. Ltd.,     
 MA-L,386FF4,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,C46940,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,B0EC69,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
@@ -8001,14 +8000,15 @@ MA-L,0C2D71,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,787462,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,A426CA,Intel Corporate,"Lot 8, Jalan Hi-Tech 2/3   Kulim Kedah MY 09000 "
 MA-L,60D1D8,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
-MA-L,00A0B0,"I-O DATA, INC.","24-1, SAKURADA-MACHI KANAZAWA, ISHIKAWA 920  JP na "
-MA-L,BCC8CC,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
-MA-L,90B141,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,7C8A3C,"Qingdao Intelligent&Precise Electronics Co.,Ltd.",No.218 Qianwangang Road Qingdao Shangdong CN 266510 
+MA-L,18D3CF,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
+MA-L,58D469,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,B8FE96,Amazon Technologies Inc.,P.O Box 8102  Reno NV US 89507 
 MA-L,8CA9FD,Copper Mountain Technologies,631 E New York St Indianapolis IN US 46202 
-MA-L,7C8A3C,"Qingdao Intelligent&Precise Electronics Co.,Ltd.",No.218 Qianwangang Road Qingdao Shangdong CN 266510 
-MA-L,58D469,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
-MA-L,18D3CF,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
+MA-L,90B141,"Motorola Mobility LLC, a Lenovo Company",222 West Merchandise Mart Plaza Chicago IL US 60654 
+MA-L,BCC8CC,Seiko Epson Corporation,2070 Kotobuki Koaka Matsumoto-shi Nagano-ken JP 399-8702 
+MA-L,00A0B0,"I-O DATA, INC.","24-1, SAKURADA-MACHI KANAZAWA, ISHIKAWA 920  JP na "
+MA-L,5CE753,Shenzhen Intellirocks Tech. Co. Ltd.,"No. 3301, Block C, Section 1, Chuangzhi Yuncheng Building, Liuxian Avenue,Xili Community, Xili Street, Nanshan District Shenzhen Guangdong CN 518000 "
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,000FEA,"GIGA-BYTE TECHNOLOGY CO.,LTD.","No.215,Nan-Ping Road,Ping-Jen City, Ping-Jen Taoyuan TW 324 "
 MA-L,38AD2B,Hitron Technologies. Inc,"No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C Hsin-chu Taiwan TW 300 "
@@ -15882,6 +15882,7 @@ MA-L,A44280,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014
 MA-L,7CB03E,Inventronics GmbH,Parkring 31-33 Garching  DE 85748  
 MA-L,E0B613,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,147830,NVIDIA Corporation,2701 San Tomas Expressway Santa Clara CA US 95050 
+MA-L,389F77,"Suzhou Retronic Interconnect  Technologies Co.,Ltd","NO,998 SONGJIARD,WUZHONG DISTRICT SUZHOU Jiangsu CN 215124 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23778,14 +23779,14 @@ MA-L,0C1B7B,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052
 MA-L,10A4C9,"Apple, Inc.",1 Infinite Loop Cupertino CA US 95014 
 MA-L,24814E,AMD,2485 Augustine Dr. Santa Clara CA US 95054 
 MA-L,3476C5,"I-O DATA, INC.","3-10, SAKURADA-MACHI KANAZAWA ISHIKAWA JP 920-8512 "
-MA-L,9C961B,IFTER Jerzy Taczalski,Wola Niemiecka 78C Niemce  PL 21-025 
-MA-L,50F8AD,"Nanjing Qinheng Microelectronics Co., Ltd.","No.18, Ningshuang Road  Nanjing Jiangsu CN 210012 "
-MA-L,80435E,Luminys Systems Corporation,15245 Alton PkwySTE100 Irvine CA US 92618 
 MA-L,4C83FE,"SHENZHEN MERCURY COMMUNICATION TECHNOLOGIES CO.,LTD.","TP-LINK Building (Middle Tower, Room 402), No. 56, Xianyuan Rd, Yuncheng Comm., Xili S.D.O. Nanshan Shenzhen CN  518055 "
 MA-L,84D303,Chipsea Technologies (Shenzhen) Crop.,"Room 301, Building 1, Shenzhen Bay Innovation and Technology Center, Keyuan Avenue, High-tech Zone Community, Yuehai Subdistrict, Nanshan District, Shenzhen Shenzhen  CN 518000 "
 MA-L,E06A1B,"Shenzhen Zidoo Technology Co., Ltd.","Floor 14, Building C, Huizhi R&D Center, Xixiang Street, Bao'an District Shenzhen Guangdong CN 518100 "
 MA-L,28F79A,"LX Semicon co.,Ltd.","222 Techno 2-ro Yuseong-gu, Daejeon - KR 34027 "
+MA-L,50F8AD,"Nanjing Qinheng Microelectronics Co., Ltd.","No.18, Ningshuang Road  Nanjing Jiangsu CN 210012 "
+MA-L,80435E,Luminys Systems Corporation,15245 Alton PkwySTE100 Irvine CA US 92618 
 MA-L,387035,"Nintendo Co.,Ltd","11-1 HOKOTATE-CHO KAMITOBA,MINAMI-KU KYOTO KYOTO JP 601-8501 "
+MA-L,9C961B,IFTER Jerzy Taczalski,Wola Niemiecka 78C Niemce  PL 21-025 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -39709,3 +39710,6 @@ MA-L,ECB157,Sagemcom Broadband SAS,4 Allée des Messageries Bois-Colombes haut d
 MA-L,244750,Sagemcom Broadband SAS,4 Allée des Messageries Bois-Colombes haut de seine FR 92270  
 MA-L,D8A312,Taicang T&W Electronics,89# Jiang Nan RD Suzhou Jiangsu CN 215412 
 MA-L,082532,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,801A23,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
+MA-L,848832,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
+MA-L,D8025F,Guangzhou Shiyuan Electronic Technology Company Limited,"No.6, 4th Yunpu Road, Yunpu industry District Guangzhou Guangdong CN 510530 "
