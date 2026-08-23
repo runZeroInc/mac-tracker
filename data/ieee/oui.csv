@@ -8060,6 +8060,8 @@ MA-L,6824F9,VIOLET AUDIO PTE. LTD.,"68 CIRCULAR ROAD, #02-01 SINGAPORE Singapore
 MA-L,C44B31,"Cisco Systems, Inc",80 West Tasman Drive San Jose  CA US 94568 
 MA-L,F834E5,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,5CA2A2,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,DC3052,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
+MA-L,DC9F1F,"Aseko, spol. s r.o.",Videnska 340 Vestec u Prahy  CZ 25250 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,000FEA,"GIGA-BYTE TECHNOLOGY CO.,LTD.","No.215,Nan-Ping Road,Ping-Jen City, Ping-Jen Taoyuan TW 324 "
 MA-L,38AD2B,Hitron Technologies. Inc,"No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C Hsin-chu Taiwan TW 300 "
@@ -15977,6 +15979,7 @@ MA-L,007230,Nordic Semiconductor ASA,Otto Nielsens veg 12 Trondheim  NO NO-7052
 MA-L,942AD6,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,E095B3,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,7C79D4,"Network Optix, Inc.",975 Ygnacio Valley Rd Walnut Creek CA US 94596 
+MA-L,AC0416,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -23943,6 +23946,10 @@ MA-L,1814F4,Texas Instruments,12500 TI Blvd Dallas TX US 75243
 MA-L,A0E922,Optiemus Electronics Limited,"A-7, Sector-65 Noida Gautam Buddha Nagar IN 201309 "
 MA-L,B0D587,"silex technology, Inc.","2-3-1 Hikaridai, Seika-cho, Souraku-gun Kyoto  JP 619-0237 "
 MA-L,4821B8,"Guangzhou V-Solution Telecommunication Technology Co.,Ltd.","13/F, Building 1, No.13 Bohua 4th Road,  Huangpu District Guangzhou Guangdong CN 510663 "
+MA-L,447B30,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+MA-L,747563,Duke Manufacturing,"601 DUKE DR, Sedalia, MO, 65301 SEDALIA MO US 65301 "
+MA-L,5423E3,"Ruijie Networks Co.,LTD","Building 19,Juyuanzhou Industrial Park, No.618 Jinshan Avenue, Cangshan District Fuzhou  CN 35000 "
+MA-L,B0B0A1,"Hon Hai Precision Industry Co.,LTD","66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI CITY,23678 , TAIWAN CHINA  TAIPEI 66.Chung Shan RD, TU-CHENG Industrial , district new TAIPEI  CN 33859 "
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -31994,11 +32001,11 @@ MA-L,24A02D,"shenzhen worldelite electronics co., LTD","Office 5 F, Xiang Yu Ind
 MA-L,347F63,Concept Pro Surveillance,"54 Thomas Street, Lees,  Oldham Greater Manchester GB OL4 5BT "
 MA-L,8864A8,TeraNXT Global India Pvt Ltd.,7A/61 W.E.A KAROL BAGH DELHI DELHI IN 110005 
 MA-L,94B5AD,ERM Electronic Systems LTD,16 Hasar Moshe Shapira Rishon Le-Zion  IL 7570419 
-MA-L,448CEC,Anhui Sunchip semiconductor technology Co;Ltd,"No. 77 Jinguang Avenue, Economic and Technological Development Zone, Chizhou City Anhui Province CN 247100 "
-MA-L,00905B,Parameter LLC,"208 COMMERCE DR.,  UNIT #3C FORT COLLINS CO US 80524 "
-MA-L,04ECA9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,28D555,"vivo Mobile Communication Co., Ltd.","No.1, vivo Road, Chang'an Dongguan Guangdong CN 523860 "
 MA-L,98A33C,"Shenzhen Cultraview Digital Technology Co., Ltd","F6,M6,Maqueling, High-tech park, Nanshan district Shenzhen Guangdong CN 518057 "
+MA-L,448CEC,Anhui Sunchip semiconductor technology Co;Ltd,"No. 77 Jinguang Avenue, Economic and Technological Development Zone, Chizhou City Anhui Province CN 247100 "
+MA-L,04ECA9,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
+MA-L,00905B,Parameter LLC,"208 COMMERCE DR.,  UNIT #3C FORT COLLINS CO US 80524 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -39966,9 +39973,16 @@ MA-L,2C1B8E,BYD Semiconductor Co，Ltd,"Byd Industrial Park, Yan 'an Road, Kuich
 MA-L,F48974,"Cisco Systems, Inc",80 West Tasman Drive San Jose  CA US 94568 
 MA-L,F44E35,"Meta Platforms, Inc.",1601 Willow Rd Menlo Park CA US 94052 
 MA-L,6C7028,EYKON Solutions S.A.,78th km Old National Road Athens-Corinth Corinth  GR 20100 
-MA-L,FCE33D,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
+MA-L,DC55B1,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+MA-L,549DEA,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+MA-L,648914,Espressif Inc.,"Vistra Corporate Services Centre, Wickhams Cay II Road Town Tortola VG VG1110 "
+MA-L,ACF878,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
+MA-L,A8DDBC,Tuya Smart Inc.,"160 Greentree Drive, Suite 101 Dover DE US 19904 "
 MA-L,3CFFE4,Siemens AG,Werner-von-Siemens-Str. 50 Amberg  DE 92224 
 MA-L,3C87CF,Quanta Computer Inc.,"No. 211, Wenhua 2nd Rd., Guishan Dist. Taoyuan City Taiwan TW 33377 "
-MA-L,98F364,"Yantai Dongfang Wisdom Elrctic Co.,Ltd.","6 Jindu Road Yantai, Shandong Yantai Shandong CN 264000 "
+MA-L,FCE33D,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
 MA-L,28E888,"Lingban Technology (Hangzhou) Co., Ltd"," 101, Building 8, No.1288, Liangmu Road, Cangqian Street,Yuhang District Hangzhou  Zhejiang CN 311100 "
+MA-L,98F364,"Yantai Dongfang Wisdom Elrctic Co.,Ltd.","6 Jindu Road Yantai, Shandong Yantai Shandong CN 264000 "
+MA-L,C8B0B2,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,AC9A3F,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
+MA-L,48F73C,"ELECOM CO.,LTD","2-6 Kinkocho, Kanagawa-ku, Yokohama Plaza Building 4F Yokohama Kanagawa JP 221-0056 "
