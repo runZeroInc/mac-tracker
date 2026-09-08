@@ -16011,13 +16011,13 @@ MA-L,24EA9B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,E4FED4,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,ECBA34,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,2803E6,Nokia,600 March Road Kanata Ontario CA K2K 2E6 
-MA-L,9CA118,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
-MA-L,FCC17D,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
 MA-L,90DF46,Shanghai Tosun Technology Ltd,"Room 207-1, No. 4801 Cao'an Road, Anting Town, Jiading District Shanghai Shanghai  CN 201800 "
 MA-L,745C2E,"Honor Device Co., Ltd.","Suite 3401, Unit A, Building 6, Shum Yip Sky Park, No. 8089, Hongli West Road, Xiangmihu Street, Futian District  Shenzhen  Guangdong CN 518040 "
-MA-L,3040FA,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,04896D,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,7C1795,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,FCC17D,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
+MA-L,9CA118,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone Dongguan Guangdong CN 523808 "
+MA-L,3040FA,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -24014,6 +24014,8 @@ MA-L,6046D4,Texas Instruments,12500 TI Blvd Dallas TX US 75243
 MA-L,C0B5DD,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,E8D81C,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,B0521F,Dyson Limited,Tetbury Hill Malmesbury Wiltshire GB SN16 0RP 
+MA-L,14BAA2,"Extreme Networks, Inc.",2121 RDU Center Drive  Morrisville  US 27560 
+MA-L,00B5C7,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
 MA-L,B00C9D,"Quectel Wireless Solutions Co.,Ltd.","7th Floor, Hongye Building, No.1801 Hongmei Road, Xuhui District Shanghai  CN 200233 "
 MA-L,F0AB1F,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
 MA-L,7CB30A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
@@ -32094,6 +32096,8 @@ MA-L,BC192F,Texas Instruments,12500 TI Blvd Dallas TX US 75243
 MA-L,649EF1,Texas Instruments,12500 TI Blvd Dallas TX US 75243 
 MA-L,241F3A,Silicon Laboratories, 400 West Cesar Chavez Austin TX US 78701 
 MA-L,44177A,"IZT Cloud, Inc.",1111B S Governors Ave STE 7460 Dover  US 19904 
+MA-L,40E767,"Extreme Networks, Inc.",2121 RDU Center Drive  Morrisville  US 27560 
+MA-L,4098E1,VusionGroup,Kalsdorfer Straße 12 Fernitz-Mellach Steiermark AT 8072 
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
@@ -40088,3 +40092,4 @@ MA-L,4CCBEA,"Huawei Device Co., Ltd.","No.2 of Xincheng Road, Songshan Lake Zone
 MA-L,5027E4,Marvell Semiconductors,15485 Sand Canyon Ave IRVINE CA US 92618 
 MA-L,9476C3,FRITZ! Technology GmbH,Alt-Moabit 95 Berlin Berlin DE 10559 
 MA-L,3890FE,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
+MA-L,9C0AB3,Vantiva USA LLC,"4855 Peachtree Industrial Blvd, Suite 200 Norcross GA US 30902 "
