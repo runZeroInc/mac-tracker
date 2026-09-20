@@ -8090,16 +8090,17 @@ MA-L,A84021,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.C
 MA-L,9887CC,AltoBeam Inc.,"B808, Tsinghua Tongfang Hi-Tech Plaza, Haidian Beijing Beijing CN 100083 "
 MA-L,943B31,Arista Networks,5453 Great America Parkway Santa Clara CA US 95054 
 MA-L,2CA2E5,"Cisco Systems, Inc",80 West Tasman Drive San Jose  CA US 94568 
-MA-L,107E59,Calix Inc.,2777 Orchard Pkwy San Jose CA US 95131 
-MA-L,38C612,"Phytium Technology Co.,Ltd.","Building5,XinAn Business Square,Haiyuan Middle Road Binhai New District, Tianjin  CN 300450 "
-MA-L,54D299,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
-MA-L,C4550D,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,BC36F7,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,E0150B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,5470AB,"China Mobile Group Device Co.,Ltd.","32 Xuanwumen West Street,Xicheng District  Beijing  CN 100053 "
-MA-L,1CC212,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
-MA-L,C423E2,WNC Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,107E59,Calix Inc.,2777 Orchard Pkwy San Jose CA US 95131 
 MA-L,CC37A9,ASKEY COMPUTER CORP,"10F,No.119,JIANKANG RD,ZHONGHE DIST NEW TAIPEI TAIWAN TW 23585 "
+MA-L,38C612,"Phytium Technology Co.,Ltd.","Building5,XinAn Business Square,Haiyuan Middle Road Binhai New District, Tianjin  CN 300450 "
+MA-L,C4550D,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,FC1CE6,PSG Germany GmbH,Hochstraße 150-152  Duisburg North Rhine-Westphalia DE 47228 
+MA-L,C423E2,WNC Corporation,"No.20,Park Avenue II,Hsinchu Science Park Hsin-Chu R.O.C. TW 308 "
+MA-L,54D299,TP-Link Systems Inc.,10 Mauchly  Irvine CA US 92618 
+MA-L,1CC212,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,000FEA,"GIGA-BYTE TECHNOLOGY CO.,LTD.","No.215,Nan-Ping Road,Ping-Jen City, Ping-Jen Taoyuan TW 324 "
 MA-L,38AD2B,Hitron Technologies. Inc,"No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C Hsin-chu Taiwan TW 300 "
@@ -16046,13 +16047,14 @@ MA-L,5CD19C,Fantasia Trading LLC,"5350 Ontario Mills Pkwy, Suite 100 Ontario CA 
 MA-L,CC827B,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,306A4F,"Roku, Inc",1173 Coleman Ave San Jose CA US 95110 
 MA-L,E8567A,zte corporation,"12/F.,zte R&D building ,kejinan Road,Shenzhen,P.R.China shenzhen  guangdong CN 518057 "
-MA-L,F05D88,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
-MA-L,4C631B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
 MA-L,7C25A3,"Fortinet, Inc.",899 Kifer Road Sunnyvale  US 94086 
-MA-L,ACA26A,Espressif Systems (Singapore) Pte. Ltd,1 FUSIONOPOLIS VIEW#07-02ECLIPSE Singapore  SG 138577 
 MA-L,A07D42,"COMPAL INFORMATION (KUNSHAN) CO., LTD. ","NO. 25, THE 3RD Street KUNSHAN EXPORT PROCESSING ZONE  KUNSHAN SUZHOU CN 215300 "
 MA-L,30C695,Overview Corporation,1700 Montgomery St San Francisco CA US 94111 
+MA-L,706A25,Ningbo Sanxing Smart Electric Co.，Ltd,"No.16 Fengwan Road,Cicheng Town,Jiangbei District,Ningbo City, Zhejiang Province,315034,China Ningbo Zhejiang Province CN 315031 "
 MA-L,64C5F9,SHENZHEN TECNO TECHNOLOGY ,"101,Building 24,Waijing Industrial Park,Fumin Community,Fucheng Street,Longhua District,Shenzhen City,P.R.China Shenzhen guangdong CN 518000 "
+MA-L,F05D88,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,4C631B,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan Lake Technology Park Dongguan  CN 523808 "
+MA-L,ACA26A,Espressif Systems (Singapore) Pte. Ltd,1 FUSIONOPOLIS VIEW#07-02ECLIPSE Singapore  SG 138577 
 MA-L,3C2319,final Inc.,"4-44-1, Nakasaiwai-cho, Saiwai-Ku Kawasaki Kanagawa JP 212-0012 "
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
@@ -29216,7 +29218,6 @@ MA-L,00123D,"GES Co, Ltd"," Room 710, Bundang Technopark, 700 Gyeonggi-Do  KR 46
 MA-L,001239,S Net Systems Inc.,10F Sungwon Bldg. Samsung-dong Seoul  KR 135-090 
 MA-L,0011FB,Heidelberg Engineering GmbH,Tiergartenstraße 15 Heidelberg Baden-Württemberg DE 69121 
 MA-L,001214,Koenig & Bauer AG,Friedrich-Koenig-Str. 4 Wuerzburg Bavaria DE 97080 
-MA-L,00120F,IEEE 802.3, Oban   GB PA34 5EJ 
 MA-L,00120C,CE-Infosys Pte Ltd,390 Havelock Road   SG 169662 
 MA-L,001230,"Picaso Infocommunication CO., LTD.","3F, Suntechcity, Sangdaewon 1-dong, Sungnam-city Kyunggi-do KR 462-725 "
 MA-L,00121D,Netfabric Corporation,67 Federal Road Brookfield CT US 06804 
@@ -32164,6 +32165,8 @@ MA-L,60BBEB,"HUAWEI TECHNOLOGIES CO.,LTD","No.2 Xin Cheng Road, Room R6,Songshan
 MA-L,5416A5,Espressif Systems (Singapore) Pte. Ltd,1 FUSIONOPOLIS VIEW#07-02ECLIPSE Singapore  SG 138577 
 MA-L,149DB0,CLOUD NETWORK TECHNOLOGY SINGAPORE PTE. LTD.,"B22 Building,NO.51 Tongle Road, Shajing Town, Jiangnan District, Nanning, Guangxi Province, China Nanning Guangxi CN 530007 "
 MA-L,88415F,MitraStar Technology Corp.,"No. 6, Innovation Road II, Hsinchu  TW 300 "
+MA-L,00120F, IEEE 802.3 Working Group ,"IEEE 802.3 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08854 "
+MA-L,B02F20,"VIM technology CO., LTD.","8F-3, No. 872, Zhongzheng Rd., Zhonghe Dist. New Taipei City  TW 235015 "
 MA-L,C85CE2,IEEE Registration Authority,445 Hoes Lane Piscataway NJ US 08554 
 MA-L,DCEE14,ADT Technology,"Room 325, 3rd Floor, Building F, Xinmao Science and Technology Park, Huayuan Industrial Zone Tianjin Tianjin CN 300384 "
 MA-L,10FFE0,"GIGA-BYTE TECHNOLOGY CO.,LTD.","Pin-Jen City, Taoyuan, Taiwan, R.O.C. Pin-Jen Taoyuan TW 324 "
