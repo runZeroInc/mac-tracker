@@ -19,7 +19,6 @@ CID,4AC03F,"WUHAN HIKSTORAGE TECHNOLOGY CO.,LTD","Rm.01, 21/F, F4 Building, 5th 
 CID,6A4065,Open Connectivity Foundation,3855 SW 153rd Dr Beaverton OR US 97003 
 CID,DAA119,"Google, Inc.",1600 Amphitheatre Parkway Mountain View CA US 94043 
 CID,AA38C7,Kaloom inc,"355 Peel street, suite 403 Montreal Quebec CA H3C 2G9 "
-CID,CA30BF,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 "
 CID,FA1619,trendytech,"No.303 Hanzhongmen Street, 6th Floor Block  Nanjing  CN 210036 "
 CID,FA610E,"Laboratory for Computational Sensing and Robotics, Johns Hopkins University",3400 North Charles Street Baltimore MD US 21218 
 CID,FA63E1,Samsung Electronics (UK) Ltd,"Communications House, South Street Staines-Upon-Thames Middlesex GB TW18 4QE "
@@ -43,6 +42,7 @@ CID,0A58FB,Purple WiFi Limited,Hollinwood Business Centre Albert Street Oldham L
 CID,2ABF3F,Linkplay Technology Inc,"8000 Jarvis Avenue, Suite #130  Newark CA US 94560 "
 CID,0A9E66,Distance Technologies Ltd,John Stenbergin ranta 2 Helsinki  FI 00530 
 CID,7AB230,European Telecommunications Standards Institute,650 Route des Lucioles Valbonne Alpes-Maritimes FR 06560 
+CID,CA30BF,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 "
 CID,CAC276,Saab Seaeye Ltd,20 Brunel Way Fareham Hampshire GB PO15 5SD 
 CID,DAE6D7,"NVM Express, Inc. ",3855 SW 153rd Drive Beaverton OR US 97003 
 CID,4AED1D,Astera Labs Inc,"2901 Tasman Dr, #204 Santa Clara CA US 95054 "
@@ -66,8 +66,6 @@ CID,DAC87D,SE Development AB,Box 2096 Karlstad  SE 650 02
 CID,0AE471,Caterpillar Inc.,P.O. Box 610 Mossville IL US 61552-0610 
 CID,5ACBD3,Simaudio Ltd,1345 rue Newton Boucherville Quebec CA J4B 5H2 
 CID,FA2EE9,"OCA Alliance, Inc.",23117 39th Ave SE Bothell WA US 98021 
-CID,3AA3F8,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 "
-CID,FA94F1,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 "
 CID,3A0292,Video Electronics Standards Association,"1754 Technology Dr., Suite 238 San Jose CA US 95110 "
 CID,FAE51A,RSAE Labs Inc,400 E 16th St Panama City FL US 32405 
 CID,DA28EC,HG Genuine,"HUST Science & Technology Park, East Lake High-Tech Development Zone Wuhan Hubei CN 430223 "
@@ -92,6 +90,8 @@ CID,2A47C9,Code Construct Pty Ltd,PO Box 248 Victoria Park WA AU 6979
 CID,2A2F83,Uplink,"3524 Silverside Road, suite 35B Wilmington DE US 19810-4929 "
 CID,FA7D04,Salience Labs,100 Park Drive Abingdon-on-Thames Oxfordshire GB OX14 4RY 
 CID,CAA527,Bobi,29 rue Marcel Dassault Bondy  FR 93140 
+CID,3AA3F8,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 "
+CID,FA94F1,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 "
 CID,8A852E,Kampr Systems,2047 Kings Lane San Mateo CA US 94402 
 CID,FA00E7,Quantum Machines ltd,Hamasger 35 Tel Aviv  IL 6721407 
 CID,6A71E6,FuelCloud,124 SW Dennis Ave. Hillsboro OR US 97123 
@@ -154,7 +154,6 @@ CID,BA4159,ANAPASS INC.,61 Digital-ro 31-gil Guro-gu Seoul  KR 08375
 CID,6A1F6C,"iPass, Inc.",3800 Bridge Parkway Redwood Shores CA US 94065 
 CID,3ACFC5,Quickline AG,Dr. Schneider-Strasse 16 Nidau  CH 2560 
 CID,EADD88,"IEEE PES-PSRC Working Group H3, PC37.237",445 Hoes Ln. Piscataway NJ US 08854 
-CID,4A07D6,IEEE 802.1 Chair," c/o RAC Administrator , IEEE Piscataway NJ US 08554 "
 CID,2AEA15,Tibit Communications,"1 Willowbrook Court, Suite 150 Petaluma CA US 94954 "
 CID,7AFD44,Rosenberger Hochfrequenztechnik GmbH & Co. KG,Hauptstrasse 1 Fridolfing  DE 83413 
 CID,5AE660,nyantec GmbH,Europaplatz 2 Berlin  DE 10557 
@@ -181,6 +180,7 @@ CID,6AB87A,Acrosswaves,"101-912, 88 ,Sinwon-ro, Yeongtong-gu,  Suwon-si Gyeonggi
 CID,4A6536,m3connect GmbH,Pascalstr. 18 Aachen Nordrhein-Westfalen DE 52076 
 CID,2A2FE2,onway ag,Stauffacherstrasse 16 Zürich  CH 8004 
 CID,0A9326,"Qorvo, Inc.",500 W. Renner Road Richardson  US 75080 
+CID,4A07D6,IEEE 802.1 Working Group," IEEE 802.1 Chair, c/o RAC Administrator, IEEE Piscataway NJ US 08554 "
 CID,8A7DB3,"Evolv Technology, Inc.",500 Totten Pond Road 4th Floor Waltham MA US 02451 
 CID,DA19B3,LG Uplus,"80-17 Gwhak-ro, Yuseong-gu Daejeon  KR 34132 "
 CID,0AA23B,Vitex LLC,"210 Sylvan Ave, Suite 25 Englewood Cliffs NJ US 07632 "
