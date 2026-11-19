@@ -5521,7 +5521,6 @@ MA-L,000870,"Rasvia Systems, Inc.",3255-3 Scott Blvd. Santa Clara CA US 95054
 MA-L,00086E,Hyglo AB,Vastberga alle 60   SE  
 MA-L,000814,TIL Technologies,"Europark DePichaury, BAT 9   FR  "
 MA-L,0008BD,TEPG-US,100 Simplex Drive Westminster MA US 01441 
-MA-L,0008AE,PacketFront Network Products AB,"PO 1217 Kistagangen 2, IV Kista Stockholm SE -16428 SE  "
 MA-L,00084F,Qualstar Corporation,3990B Heritage Oak Court Simi Valley CA US 93063 
 MA-L,000854,"Netronix, Inc.","3F-1, No. 31, Hsin-Tai Road,   TW  "
 MA-L,00085C,Shanghai Dare Technologies Co. Ltd.,"23F, China Merchants Tower, Pudong New Area, Shanghai CN  "
@@ -8165,6 +8164,7 @@ MA-L,50EEF8,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erq
 MA-L,4CA637,"Hisense Home Appliances Group Co.,Ltd.Qingdao Branch","Hisense R&D center, #399 Songling Road, Qingdao, Shandong, 266000, China Qingdao Shandong CN 266000 "
 MA-L,D8E6AB,eero inc.,660 3rd Street  San Francisco CA US 94107 
 MA-L,505716,"Mellanox Technologies, Inc.","350 Oakmead Parkway, Suite 100   Sunnyvale CA US 94085 "
+MA-L,0008AE,Waystream AB,Farogatan 33 Kista  SE 164 51 
 MA-L,00749C,"Ruijie Networks Co.,LTD","19# Building,Star-net Science Plaza,Juyuanzhou, 618 Jinshan Road Fuzhou Fujian CN 350002 "
 MA-L,000FEA,"GIGA-BYTE TECHNOLOGY CO.,LTD.","No.215,Nan-Ping Road,Ping-Jen City, Ping-Jen Taoyuan TW 324 "
 MA-L,38AD2B,Hitron Technologies. Inc,"No. 1-8, Lising 1st Rd. Hsinchu Science Park, Hsinchu, 300, Taiwan, R.O.C Hsin-chu Taiwan TW 300 "
@@ -16193,6 +16193,7 @@ MA-L,188947,"HISENSE VISUAL TECHNOLOGY CO.,LTD",Qianwangang Road 218 Qingdao Sha
 MA-L,AC66B3,BUFFALO.INC,"AKAMONDORI Bld.,30-20,Ohsu 3-chome,Naka-ku Nagoya Aichi Pref. JP 460-8315 "
 MA-L,B83184,Hewlett Packard Enterprise,6280 America Center Dr San Jose CA US 95002 
 MA-L,4860CB,"Nanjing RISC-V Institute Co., Ltd.","Room 303, Building C, 18 Ningshuang Road  Nanjing Jiangsu CN 210000 "
+MA-L,A4E041,Ruckus Wireless,350 West Java Drive Sunnyvale CA US 94089 
 MA-L,6C8720,"New H3C Technologies Co., Ltd","466 Changhe Road, Binjiang District Hangzhou Zhejiang CN 310052 "
 MA-L,0C8D7A,RADiflow,HaBarzel St 38 Tel-Aviv  IL 6971054 
 MA-L,FCA9F5,Xiaomi Communications Co Ltd,"#019, 9th Floor, Building 6, 33 Xi'erqi Middle Road Beijing Haidian District CN 100085 "
@@ -40519,3 +40520,4 @@ MA-L,FC2731,EM Microelectronic,Rue des Sors 3 Marin-Epagnier Neuchatel CH 2074
 MA-L,E0DD4B,Microsoft Corporation,One Microsoft Way REDMOND WA US 98052 
 MA-L,707F7D,Infinix mobility limited,"RMS 05-15, 13A/F SOUTH TOWER WORLD FINANCE CTR HARBOUR CITY 17 CANTON RD TST KLN HONG KONG HongKong HongKong HK 999077 "
 MA-L,0C8473,"Bouffalo Lab (Nanjing) Co., Ltd.","5F, Gongxiang Space, No.100 Tuanjie Road, Nanjing, China Nanjing Jiangsu CN 211800 "
+MA-L,14BF9A,"HavocAI, Inc.",56 Broad St. Suite 14130 Boston MA US 02109 
