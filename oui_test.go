@@ -64,6 +64,9 @@ func TestOUITableLoadsWithoutError(t *testing.T) {
 
 func TestDecodeEmbeddedOUITableCorrupt(t *testing.T) {
 	corrupt := []byte(ouiTableData)
+	if len(corrupt) < 5 {
+		t.Fatalf("embedded OUI table is too short to corrupt: %d bytes", len(corrupt))
+	}
 	// Flip a byte in the gzip CRC32 trailer.
 	corrupt[len(corrupt)-5] ^= 0xff
 	blocks, err := decodeEmbeddedOUITable(string(corrupt))

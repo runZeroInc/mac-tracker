@@ -11,15 +11,10 @@ import (
 //go:embed oui_table.bin.gz
 var ouiTableData string
 
-// ouiTableErr holds the decode error for the embedded table, if any.
-var ouiTableErr error
-
 // OUITable contains IEEE registrations, lazily loaded from embedded binary data.
 var OUITable = OuiDB{
-	loadFunc: func() map[string]*OuiBlock {
-		var blocks map[string]*OuiBlock
-		blocks, ouiTableErr = decodeEmbeddedOUITable(ouiTableData)
-		return blocks
+	loadFunc: func() (map[string]*OuiBlock, error) {
+		return decodeEmbeddedOUITable(ouiTableData)
 	},
 }
 
@@ -35,6 +30,5 @@ func decodeEmbeddedOUITable(data string) (map[string]*OuiBlock, error) {
 // OUITableError loads the embedded IEEE table and reports any decode error.
 // A table that fails to decode yields no IEEE matches instead of panicking.
 func OUITableError() error {
-	OUITable.load()
-	return ouiTableErr
+	return OUITable.load()
 }
