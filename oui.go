@@ -172,6 +172,13 @@ func LookupOverride(s string) *OuiBlock {
 	return OUITableExtra.Lookup(OuiHardwareAddr(addr))
 }
 
+// load populates Blocks from loadFunc once, if set.
+func (m *OuiDB) load() {
+	if m.loadFunc != nil {
+		m.loadOnce.Do(func() { m.Blocks = m.loadFunc() })
+	}
+}
+
 // Mask applies a byte-level AND between the address and mask, returning the masked result.
 func (address OuiHardwareAddr) Mask(mask []byte) []byte {
 	addrLen := len(address)
@@ -189,9 +196,7 @@ func (address OuiHardwareAddr) Mask(mask []byte) []byte {
 
 // Lookup searches the database for the most-specific OUI block matching address.
 func (m *OuiDB) Lookup(address OuiHardwareAddr) *OuiBlock {
-	if m.loadFunc != nil {
-		m.loadOnce.Do(func() { m.Blocks = m.loadFunc() })
-	}
+	m.load()
 	for _, k := range lookupKeys(address) {
 		if _, skip := OUISkipPrefixes[k]; skip {
 			continue

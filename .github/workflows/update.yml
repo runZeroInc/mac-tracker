@@ -34,7 +34,7 @@ jobs:
           branch: auto/update-ieee
           delete-branch: true
           title: 'Auto: Update files from IEEE'
-          add-paths: data, oui_table.go
+          add-paths: data, oui_table.bin.gz
           labels: |
             autoupdate
       - name: Enable Pull Request Automerge
