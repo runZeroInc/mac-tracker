@@ -94,7 +94,11 @@ func writeString16(w *bytes.Buffer, s string) error {
 
 // DecodeOUIDB deserializes a gzip-compressed binary blob into an OuiDB Blocks map.
 func DecodeOUIDB(data []byte) (map[string]*OuiBlock, error) {
-	gz, err := gzip.NewReader(bytes.NewReader(data))
+	return decodeOUIDB(bytes.NewReader(data))
+}
+
+func decodeOUIDB(src io.Reader) (map[string]*OuiBlock, error) {
+	gz, err := gzip.NewReader(src)
 	if err != nil {
 		return nil, fmt.Errorf("gzip open: %w", err)
 	}

@@ -58,7 +58,8 @@ type OuiBlock struct {
 type OuiDB struct {
 	Blocks   map[string]*OuiBlock
 	loadOnce sync.Once
-	loadFunc func() map[string]*OuiBlock
+	loadFunc func() (map[string]*OuiBlock, error)
+	loadErr  error
 }
 
 // ParseMAC parses s as an IEEE 802 MAC-48, EUI-48, or EUI-64 using one of the
@@ -131,6 +132,8 @@ func lookupKeys(address OuiHardwareAddr) []string {
 // Lookup resolves a MAC address string to the best-matching OUI block.
 // It accepts any common MAC notation (colon, dash, dot, or bare hex).
 // Returns nil when the address is unparseable or has no matching registration.
+// If the embedded IEEE table fails to decode it is treated as empty, so only
+// the override and virtual tables can match; call OUITableError to detect this.
 func Lookup(s string) *OuiBlock {
 	addr, err := ParseMAC(s)
 	if err != nil {
@@ -140,6 +143,7 @@ func Lookup(s string) *OuiBlock {
 }
 
 // LookupBytes is like Lookup but accepts a raw byte-slice address (6 or 8 bytes).
+// See Lookup for how a failed decode of the embedded IEEE table is handled.
 func LookupBytes(addr []byte) *OuiBlock {
 	hwa := OuiHardwareAddr(addr)
 	for _, table := range ouiTables {
@@ -152,7 +156,8 @@ func LookupBytes(addr []byte) *OuiBlock {
 }
 
 // LookupOUI searches only the primary IEEE OUI registration table for a MAC address string.
-// Returns nil when the address is unparseable or has no matching IEEE registration.
+// Returns nil when the address is unparseable or has no matching IEEE registration,
+// and for every address if the embedded table failed to decode (see OUITableError).
 func LookupOUI(s string) *OuiBlock {
 	addr, err := ParseMAC(s)
 	if err != nil {
@@ -172,6 +177,15 @@ func LookupOverride(s string) *OuiBlock {
 	return OUITableExtra.Lookup(OuiHardwareAddr(addr))
 }
 
+// load populates Blocks and loadErr from loadFunc once, if set, and returns
+// the load error.
+func (m *OuiDB) load() error {
+	if m.loadFunc != nil {
+		m.loadOnce.Do(func() { m.Blocks, m.loadErr = m.loadFunc() })
+	}
+	return m.loadErr
+}
+
 // Mask applies a byte-level AND between the address and mask, returning the masked result.
 func (address OuiHardwareAddr) Mask(mask []byte) []byte {
 	addrLen := len(address)
@@ -189,9 +203,7 @@ func (address OuiHardwareAddr) Mask(mask []byte) []byte {
 
 // Lookup searches the database for the most-specific OUI block matching address.
 func (m *OuiDB) Lookup(address OuiHardwareAddr) *OuiBlock {
-	if m.loadFunc != nil {
-		m.loadOnce.Do(func() { m.Blocks = m.loadFunc() })
-	}
+	m.load()
 	for _, k := range lookupKeys(address) {
 		if _, skip := OUISkipPrefixes[k]; skip {
 			continue

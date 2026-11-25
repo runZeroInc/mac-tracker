@@ -52,3 +52,31 @@ func TestLookupVirtual(t *testing.T) {
 		}
 	}
 }
+
+func TestOUITableLoadsWithoutError(t *testing.T) {
+	if err := OUITableError(); err != nil {
+		t.Fatalf("OUITableError() = %v", err)
+	}
+	if len(OUITable.Blocks) == 0 {
+		t.Fatal("embedded OUI table is empty")
+	}
+}
+
+func TestDecodeEmbeddedOUITableCorrupt(t *testing.T) {
+	corrupt := []byte(ouiTableData)
+	if len(corrupt) < 5 {
+		t.Fatalf("embedded OUI table is too short to corrupt: %d bytes", len(corrupt))
+	}
+	// Flip a byte in the gzip CRC32 trailer.
+	corrupt[len(corrupt)-5] ^= 0xff
+	blocks, err := decodeEmbeddedOUITable(string(corrupt))
+	if err == nil {
+		t.Fatal("expected a decode error for a corrupt table")
+	}
+	if blocks == nil || len(blocks) != 0 {
+		t.Fatalf("expected an empty non-nil table, got %d blocks", len(blocks))
+	}
+	if got := (&OuiDB{Blocks: blocks}).Lookup(OuiHardwareAddr{0x00, 0x1b, 0xc5, 0x00, 0x00, 0x00}); got != nil {
+		t.Fatalf("expected no match from an empty table, got %v", got)
+	}
+}
